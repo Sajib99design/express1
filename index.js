@@ -4,7 +4,7 @@ const phone = require ('./phone.json');
 const app = express()
 const port = 3000
 
-const data = 'my first data secnter here soon toon22'
+const data = 'my first data secnter here soon toon223'
 
 
 app.get('/', (req, res) => {
